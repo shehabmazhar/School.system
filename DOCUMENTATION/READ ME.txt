@@ -1,0 +1,21 @@
+There are 3 different dashboards
+--------------------------------
+
+Teacher dashboard 
+
+t@t.t
+t
+
+----------------------------------
+
+Student dashboard 
+
+s@s.s
+s
+
+----------------------------------
+
+Parent dashboard 
+
+p@p.p
+p
